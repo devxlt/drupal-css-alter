@@ -1,0 +1,7 @@
+name: CSS Markup Alter
+type: module
+description: 'Alters CSS <link /> markup'
+version: '8.0.0-beta14'
+core: '8.x'
+project: 'drupal'
+datestamp: 1430314871
